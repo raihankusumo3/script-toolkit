@@ -1,0 +1,3 @@
+# Core utilities use Python's standard library.
+# Optional dependency for image processing:
+Pillow>=10.0
